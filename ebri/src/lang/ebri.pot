@@ -1,0 +1,1109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sulaeman <me@sulaeman.com>\n"
+"Language-Team: Sulaeman <me@sulaeman.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Unable to create setting." 
+msgstr "" 
+
+msgid "Unable to create setting: %s." 
+msgstr "" 
+
+msgid "Bad Request" 
+msgstr "" 
+
+msgid "Failed while creating the settings" 
+msgstr "" 
+
+msgid "Unable to update setting." 
+msgstr "" 
+
+msgid "Unable to update setting: %s." 
+msgstr "" 
+
+msgid "Unable to delete setting." 
+msgstr "" 
+
+msgid "Unable to delete setting: %s." 
+msgstr "" 
+
+msgid "No key found" 
+msgstr "" 
+
+msgid "Setting deleted." 
+msgstr "" 
+
+msgid "Setting succesfully deleted." 
+msgstr "" 
+
+msgid "Failed while deleting from database" 
+msgstr "" 
+
+msgid "Permission denied." 
+msgstr "" 
+
+msgid "Unable to identify current logged in user." 
+msgstr "" 
+
+msgid "Unable to stream file." 
+msgstr "" 
+
+msgid "File is not available." 
+msgstr "" 
+
+msgid "Unable to download file." 
+msgstr "" 
+
+msgid "Unable to move file." 
+msgstr "" 
+
+msgid "Destination path is not defined." 
+msgstr "" 
+
+msgid "The file is already there." 
+msgstr "" 
+
+msgid "Unable to move \"%s\": %s." 
+msgstr "" 
+
+msgid "\"%s\" is not available" 
+msgstr "" 
+
+msgid "Moving to shared folder temporarily unavailable." 
+msgstr "" 
+
+msgid "Moving shared file temporarily unavailable." 
+msgstr "" 
+
+msgid "Failed to move the file, please try again or contact us." 
+msgstr "" 
+
+msgid "Unable to delete file." 
+msgstr "" 
+
+msgid "Please specify the target path with file name." 
+msgstr "" 
+
+msgid "Unable to delete \"%s\": %s." 
+msgstr "" 
+
+msgid "Folder \"%s\" is not exist" 
+msgstr "" 
+
+msgid "Specified path does not exist" 
+msgstr "" 
+
+msgid "File deleted." 
+msgstr "" 
+
+msgid "\"%s\" successfully deleted." 
+msgstr "" 
+
+msgid "Unable to delete \"%s\"." 
+msgstr "" 
+
+msgid "Unable to update file." 
+msgstr "" 
+
+msgid "Unable to update \"%s\": %s." 
+msgstr "" 
+
+msgid "Unable to update \"%s\"." 
+msgstr "" 
+
+msgid "Unable to process uploaded file." 
+msgstr "" 
+
+msgid "Could not read file size from Content-Length." 
+msgstr "" 
+
+msgid "Could not read file mime type from Content-Type." 
+msgstr "" 
+
+msgid "Could not read file content." 
+msgstr "" 
+
+msgid "Unable to process \"%s\": %s." 
+msgstr "" 
+
+msgid "Folder \"%s\" is not available" 
+msgstr "" 
+
+msgid "File type is not allowed" 
+msgstr "" 
+
+msgid "File size is exceeded the limit" 
+msgstr "" 
+
+msgid "Could not found previous chunked file" 
+msgstr "" 
+
+msgid "Failed to get the uploaded file content, needed to be merged to existing file" 
+msgstr "" 
+
+msgid "Failed to merge to previous chunked file" 
+msgstr "" 
+
+msgid "There was a problem saving file info to database" 
+msgstr "" 
+
+msgid "Please check folder permission" 
+msgstr "" 
+
+msgid "Permission denied to write to \"%s\" folder" 
+msgstr "" 
+
+msgid "Unable to get shared folder option." 
+msgstr "" 
+
+msgid "Folder is not available." 
+msgstr "" 
+
+msgid "Folder maybe already abandoned." 
+msgstr "" 
+
+msgid "Folder is inside the main shared folder." 
+msgstr "" 
+
+msgid "Unable to download folder." 
+msgstr "" 
+
+msgid "Unable to create archive, make sure the directory is not empty." 
+msgstr "" 
+
+msgid "Unable to find the archive file." 
+msgstr "" 
+
+msgid "Unable to move folder." 
+msgstr "" 
+
+msgid "The folder is already there." 
+msgstr "" 
+
+msgid "Could not move to the same folder" 
+msgstr "" 
+
+msgid "Could not move to the child folder" 
+msgstr "" 
+
+msgid "Moving shared folder temporarily unavailable." 
+msgstr "" 
+
+msgid "Failed to move the folder, please try again or contact us." 
+msgstr "" 
+
+msgid "Unable to leave shared folder." 
+msgstr "" 
+
+msgid "Folder leaved." 
+msgstr "" 
+
+msgid "Folder \"%s\" successfully leaved." 
+msgstr "" 
+
+msgid "Unable to leave." 
+msgstr "" 
+
+msgid "Unable to leave \"%s\"." 
+msgstr "" 
+
+msgid "Unable to unshare folder." 
+msgstr "" 
+
+msgid "Folder unshared." 
+msgstr "" 
+
+msgid "Folder \"%s\" successfully unshared." 
+msgstr "" 
+
+msgid "Unable to unshare." 
+msgstr "" 
+
+msgid "Unable to unshare \"%s\"." 
+msgstr "" 
+
+msgid "Unable to share folder." 
+msgstr "" 
+
+msgid "Unable to share: %s." 
+msgstr "" 
+
+msgid "Invalid members data" 
+msgstr "" 
+
+msgid "Empty members" 
+msgstr "" 
+
+msgid "Unable to share \"%s\": %s." 
+msgstr "" 
+
+msgid "Shared folder owner is not found" 
+msgstr "" 
+
+msgid "\"%s\" is invalid email address" 
+msgstr "" 
+
+msgid "User with \"%s\" email address is not found" 
+msgstr "" 
+
+msgid "Folder shared." 
+msgstr "" 
+
+msgid "Folder \"%s\" successfully shared." 
+msgstr "" 
+
+msgid "Unable to update folder." 
+msgstr "" 
+
+msgid "Unable to delete folder." 
+msgstr "" 
+
+msgid "Folder deleted." 
+msgstr "" 
+
+msgid "Unable to create folder." 
+msgstr "" 
+
+msgid "Unable to create \"%s\": %s." 
+msgstr "" 
+
+msgid "Folder is already exist" 
+msgstr "" 
+
+msgid "There was a problem saving folder info to database" 
+msgstr "" 
+
+msgid "Unable to delete archive." 
+msgstr "" 
+
+msgid "Unable to delete archive: %s." 
+msgstr "" 
+
+msgid "No archive defined" 
+msgstr "" 
+
+msgid "Archive deleted." 
+msgstr "" 
+
+msgid "\"%s\" archive successfully deleted." 
+msgstr "" 
+
+msgid "Unable to create link." 
+msgstr "" 
+
+msgid "Unable to create link: %s." 
+msgstr "" 
+
+msgid "No file defined" 
+msgstr "" 
+
+msgid "No file found" 
+msgstr "" 
+
+msgid "Failed while creating the link" 
+msgstr "" 
+
+msgid "Unable to view link." 
+msgstr "" 
+
+msgid "Unable to view link: %s." 
+msgstr "" 
+
+msgid "No link defined" 
+msgstr "" 
+
+msgid "No link found" 
+msgstr "" 
+
+msgid "Link is expired" 
+msgstr "" 
+
+msgid "Download limit is reached" 
+msgstr "" 
+
+msgid "Unable to download link." 
+msgstr "" 
+
+msgid "Unable to download link: %s." 
+msgstr "" 
+
+msgid "No owner found" 
+msgstr "" 
+
+msgid "Password does not match" 
+msgstr "" 
+
+msgid "Unable to send link." 
+msgstr "" 
+
+msgid "Unable to send link: %s." 
+msgstr "" 
+
+msgid "No recipient defined" 
+msgstr "" 
+
+msgid "URL link is not defined" 
+msgstr "" 
+
+msgid "Unable to update link." 
+msgstr "" 
+
+msgid "Unable to update link: %s." 
+msgstr "" 
+
+msgid "Unable to delete link." 
+msgstr "" 
+
+msgid "Unable to delete link: %s." 
+msgstr "" 
+
+msgid "Link deleted." 
+msgstr "" 
+
+msgid "\"%s\" link successfully deleted." 
+msgstr "" 
+
+msgid "Method Not Allowed." 
+msgstr "" 
+
+msgid "Could not found requested user data." 
+msgstr "" 
+
+msgid "Email Address is required" 
+msgstr "" 
+
+msgid "Email Address format is invalid" 
+msgstr "" 
+
+msgid "Email Address is already used by someone else" 
+msgstr "" 
+
+msgid "Password is required" 
+msgstr "" 
+
+msgid "Permission is required" 
+msgstr "" 
+
+msgid "Defined group is not available" 
+msgstr "" 
+
+msgid "Activation status is required" 
+msgstr "" 
+
+msgid "Username is required" 
+msgstr "" 
+
+msgid "Username is already used by someone else" 
+msgstr "" 
+
+msgid "Provided information is not valid." 
+msgstr "" 
+
+msgid "The account is updated." 
+msgstr "" 
+
+msgid "Current user not found." 
+msgstr "" 
+
+msgid "User deleted." 
+msgstr "" 
+
+msgid "Failed to delete the user." 
+msgstr "" 
+
+msgid "Login field is required." 
+msgstr "" 
+
+msgid "Password field is required." 
+msgstr "" 
+
+msgid "Wrong password, try again." 
+msgstr "" 
+
+msgid "User was not found." 
+msgstr "" 
+
+msgid "Your account is not yet activated." 
+msgstr "" 
+
+msgid "Your account is suspended." 
+msgstr "" 
+
+msgid "Your account is banned." 
+msgstr "" 
+
+msgid "There was a problem while logging you in, please try again or contact customer support." 
+msgstr "" 
+
+msgid "Could not found any account with provided email address." 
+msgstr "" 
+
+msgid "Password recovery request received." 
+msgstr "" 
+
+msgid "Email is required." 
+msgstr "" 
+
+msgid "New password is required." 
+msgstr "" 
+
+msgid "Password confirmation is required." 
+msgstr "" 
+
+msgid "Password does not match." 
+msgstr "" 
+
+msgid "Password successfully changed." 
+msgstr "" 
+
+msgid "Failed to change your password." 
+msgstr "" 
+
+msgid "Your account successfully activated." 
+msgstr "" 
+
+msgid "Failed to activate your account." 
+msgstr "" 
+
+msgid "Unable to delete metadata." 
+msgstr "" 
+
+msgid "Unable to delete metadata: %s." 
+msgstr "" 
+
+msgid "No key defined" 
+msgstr "" 
+
+msgid "Failed while deleting the data" 
+msgstr "" 
+
+msgid "Unable to update metadata." 
+msgstr "" 
+
+msgid "Unable to update metadata: %s." 
+msgstr "" 
+
+msgid "No input defined" 
+msgstr "" 
+
+msgid "Bad request." 
+msgstr "" 
+
+msgid "Items is not defined." 
+msgstr "" 
+
+msgid "Done." 
+msgstr "" 
+
+msgid "Deletion performed successfully." 
+msgstr "" 
+
+msgid "Folder does not exist." 
+msgstr "" 
+
+msgid "File \"%s\" is not writeable." 
+msgstr "" 
+
+msgid "File \"%s\" is not found." 
+msgstr "" 
+
+msgid "File \"%s\" is not readable." 
+msgstr "" 
+
+msgid "Sign In" 
+msgstr "" 
+
+msgid "Sign Up" 
+msgstr "" 
+
+msgid "so sorry... the page you are trying to access is currently unavailable..." 
+msgstr "" 
+
+msgid "Go to Homepage" 
+msgstr "" 
+
+msgid "Settings" 
+msgstr "" 
+
+msgid "General" 
+msgstr "" 
+
+msgid "Users" 
+msgstr "" 
+
+msgid "Template Editor" 
+msgstr "" 
+
+msgid "There is a problem while contacting our server, please try again, or contact us." 
+msgstr "" 
+
+msgid "Toggle navigation" 
+msgstr "" 
+
+msgid "Dashboard" 
+msgstr "" 
+
+msgid "Links" 
+msgstr "" 
+
+msgid "Archives" 
+msgstr "" 
+
+msgid "Profile" 
+msgstr "" 
+
+msgid "Logout" 
+msgstr "" 
+
+msgid "Please Sign In" 
+msgstr "" 
+
+msgid "Email address" 
+msgstr "" 
+
+msgid "forgot password?" 
+msgstr "" 
+
+msgid "Sign up" 
+msgstr "" 
+
+msgid "Sign in ..." 
+msgstr "" 
+
+msgid "Confirm Password" 
+msgstr "" 
+
+msgid "Registering ..." 
+msgstr "" 
+
+msgid "Account created" 
+msgstr "" 
+
+msgid "A instruction to activate your account has been sent to your email." 
+msgstr "" 
+
+msgid "Please enter your valid email address" 
+msgstr "" 
+
+msgid "Requesting ..." 
+msgstr "" 
+
+msgid "Reset password" 
+msgstr "" 
+
+msgid "Password reset sent" 
+msgstr "" 
+
+msgid "A instruction to reset password has been sent to your email." 
+msgstr "" 
+
+msgid "Change your password" 
+msgstr "" 
+
+msgid "New Password" 
+msgstr "" 
+
+msgid "Changing ..." 
+msgstr "" 
+
+msgid "Change Password" 
+msgstr "" 
+
+msgid "Complete your information" 
+msgstr "" 
+
+msgid "First name" 
+msgstr "" 
+
+msgid "Last name" 
+msgstr "" 
+
+msgid "Activating ..." 
+msgstr "" 
+
+msgid "Activate" 
+msgstr "" 
+
+msgid "Your Profile" 
+msgstr "" 
+
+msgid "Close" 
+msgstr "" 
+
+msgid "Saving ..." 
+msgstr "" 
+
+msgid "Save Changes" 
+msgstr "" 
+
+msgid "E-mail" 
+msgstr "" 
+
+msgid "Only required if you want to change your password." 
+msgstr "" 
+
+msgid "Back One Level" 
+msgstr "" 
+
+msgid "Search folders & files..." 
+msgstr "" 
+
+msgid "Submit" 
+msgstr "" 
+
+msgid "Upload" 
+msgstr "" 
+
+msgid "New Folder" 
+msgstr "" 
+
+msgid "Choose an action..." 
+msgstr "" 
+
+msgid "Delete" 
+msgstr "" 
+
+msgid "Shared folder options for \"%s\"" 
+msgstr "" 
+
+msgid "Share \"%s\" with others" 
+msgstr "" 
+
+msgid "Allow members to upload" 
+msgstr "" 
+
+msgid "Allow members to invite others" 
+msgstr "" 
+
+msgid "Invite members to this folder" 
+msgstr "" 
+
+msgid "Add a message" 
+msgstr "" 
+
+msgid "Unshare folder" 
+msgstr "" 
+
+msgid "Leaving ..." 
+msgstr "" 
+
+msgid "Leave folder" 
+msgstr "" 
+
+msgid "Inviting ..." 
+msgstr "" 
+
+msgid "Share folder" 
+msgstr "" 
+
+msgid "Updating ..." 
+msgstr "" 
+
+msgid "Cancel" 
+msgstr "" 
+
+msgid "Unshare \"%s\"" 
+msgstr "" 
+
+msgid "I want my collaborators to keep a copy of these files." 
+msgstr "" 
+
+msgid "Unsharing ..." 
+msgstr "" 
+
+msgid "Leave the shared folder \"%s\"" 
+msgstr "" 
+
+msgid "I still want to keep my copy of these files." 
+msgstr "" 
+
+msgid "Delete Items" 
+msgstr "" 
+
+msgid "Are you sure want to delete selected items?" 
+msgstr "" 
+
+msgid "Deleting ..." 
+msgstr "" 
+
+msgid "Continue" 
+msgstr "" 
+
+msgid "is owner" 
+msgstr "" 
+
+msgid "remove" 
+msgstr "" 
+
+msgid "Create New Folder" 
+msgstr "" 
+
+msgid "Folder name" 
+msgstr "" 
+
+msgid "Creating ..." 
+msgstr "" 
+
+msgid "Upload Files" 
+msgstr "" 
+
+msgid "Click \"Choose Files\" to start selecting files you want to upload." 
+msgstr "" 
+
+msgid "Overwrite?" 
+msgstr "" 
+
+msgid "Max. upload size: %s" 
+msgstr "" 
+
+msgid "Choose files" 
+msgstr "" 
+
+msgid "You can create a link to any file. These links can then be sent to anyone for viewing." 
+msgstr "" 
+
+msgid "Following is the list of archive created when downloading folder or multiple items. Please delete the old archive (more than 1 day old) to reduce your used disk space." 
+msgstr "" 
+
+msgid "Last modified" 
+msgstr "" 
+
+msgid "Invite to folder" 
+msgstr "" 
+
+msgid "Rename" 
+msgstr "" 
+
+msgid "Move" 
+msgstr "" 
+
+msgid "Rename Folder" 
+msgstr "" 
+
+msgid "New folder name" 
+msgstr "" 
+
+msgid "Delete File" 
+msgstr "" 
+
+msgid "Are you sure want to delete \"%s\" and its contents?" 
+msgstr "" 
+
+msgid "Move \"%s\"" 
+msgstr "" 
+
+msgid "Type folder path" 
+msgstr "" 
+
+msgid "Example to root folder" 
+msgstr "" 
+
+msgid "Example to a folder" 
+msgstr "" 
+
+msgid "Moving ..." 
+msgstr "" 
+
+msgid "Share link" 
+msgstr "" 
+
+msgid "Rename File" 
+msgstr "" 
+
+msgid "New file name" 
+msgstr "" 
+
+msgid "Are you sure want to delete \"%s\"?" 
+msgstr "" 
+
+msgid "Share \"%s\"" 
+msgstr "" 
+
+msgid "All input are optional. You can just continue to click the \"Share\" button at the bottom." 
+msgstr "" 
+
+msgid "Valid until" 
+msgstr "" 
+
+msgid "Description" 
+msgstr "" 
+
+msgid "Sharing ..." 
+msgstr "" 
+
+msgid "Type email addresses" 
+msgstr "" 
+
+msgid "Sending ..." 
+msgstr "" 
+
+msgid "downloaded" 
+msgstr "" 
+
+msgid "Created at" 
+msgstr "" 
+
+msgid "Send by email" 
+msgstr "" 
+
+msgid "If previously defined, please re-enter, because it was encrypted and cannot be restored to above input." 
+msgstr "" 
+
+msgid "Update" 
+msgstr "" 
+
+msgid "Send \"%s\" link" 
+msgstr "" 
+
+msgid "Delete Link" 
+msgstr "" 
+
+msgid "Size" 
+msgstr "" 
+
+msgid "Delete Archive" 
+msgstr "" 
+
+msgid "Nobody else will be able to see this shared folder in their account. You'll still keep a copy of this shared folder." 
+msgstr "" 
+
+msgid "General Preferences" 
+msgstr "" 
+
+msgid "Product Title" 
+msgstr "" 
+
+msgid "Locale Language" 
+msgstr "" 
+
+msgid "Allow User Registration?" 
+msgstr "" 
+
+msgid "Yes" 
+msgstr "" 
+
+msgid "Content Info" 
+msgstr "" 
+
+msgid "Footer" 
+msgstr "" 
+
+msgid "Image Media" 
+msgstr "" 
+
+msgid "Image Driver" 
+msgstr "" 
+
+msgid "Ask your server administrator regarding the driver availability based on above list." 
+msgstr "" 
+
+msgid "Archiver" 
+msgstr "" 
+
+msgid "ZIP inflator binary path" 
+msgstr "" 
+
+msgid "Ask your server administrator regarding ZIP binary path location." 
+msgstr "" 
+
+msgid "ZIP deflator binary path" 
+msgstr "" 
+
+msgid "File Handling & Storage" 
+msgstr "" 
+
+msgid "Upload file chunk size (bytes)" 
+msgstr "" 
+
+msgid "Max chunk file size when uploading, useful for uploading a large file. Should not exceed your php.ini max file upload and max post size setting, also consider your php.ini memory limit." 
+msgstr "" 
+
+msgid "[POST] File upload param name" 
+msgstr "" 
+
+msgid "Storage location folder name" 
+msgstr "" 
+
+msgid "Email Subject" 
+msgstr "" 
+
+msgid "User activation" 
+msgstr "" 
+
+msgid "File shared" 
+msgstr "" 
+
+msgid "User Management" 
+msgstr "" 
+
+msgid "New User" 
+msgstr "" 
+
+msgid "Access group" 
+msgstr "" 
+
+msgid "Max upload file size (bytes)" 
+msgstr "" 
+
+msgid "Allowed file types" 
+msgstr "" 
+
+msgid "file types reference" 
+msgstr "" 
+
+msgid "Activate?" 
+msgstr "" 
+
+msgid "File Types Reference" 
+msgstr "" 
+
+msgid "Group" 
+msgstr "" 
+
+msgid "Last login" 
+msgstr "" 
+
+msgid "Not yet activated" 
+msgstr "" 
+
+msgid "Edit \"%s\"" 
+msgstr "" 
+
+msgid "Delete User" 
+msgstr "" 
+
+msgid "Used by file uploader if using POST method. Currently used by the jQuery File Upload." 
+msgstr "" 
+
+msgid "Don't change it after you do migration / create folder / upload file." 
+msgstr "" 
+
+msgid "Define allowed file types when uploading by this user. Please split accepted extensions with a ',', in example 'jpeg,png,gif,zip'. If you would like to accept all types of files, leave this field empty." 
+msgstr "" 
+
+msgid "Unlock Link" 
+msgstr "" 
+
+msgid "Unlock & Download" 
+msgstr "" 
+
+msgid "Saving changes will reflect the live file." 
+msgstr "" 
+
+msgid "Modify properties" 
+msgstr "" 
+
+msgid "File Properties" 
+msgstr "" 
+
+msgid "Key" 
+msgstr ""
+
+msgid "Value" 
+msgstr "" 
+
+msgid "New Property" 
+msgstr "" 
+
+msgid "example: tag or additional_note." 
+msgstr "" 
+
+msgid "Remove" 
+msgstr "" 
+
+msgid "Removing ..." 
+msgstr "" 
+
+msgid "Delete \"%s\" Property" 
+msgstr "" 
+
+msgid "of" 
+msgstr "" 
+
+msgid "free" 
+msgstr "" 
+
+msgid "Default user quota (bytes)" 
+msgstr "" 
+
+msgid "Quota (bytes)" 
+msgstr "" 
+
+msgid "Member lookup at Folder Sharing from user contact only (registerd user)?" 
+msgstr "" 
+
+msgid "User still be able to add new contact from registered user by just adding email address to the member lookup." 
+msgstr "" 
+
+msgid "Groups" 
+msgstr ""
+
+msgid "Group Management" 
+msgstr "" 
+
+msgid "Name" 
+msgstr "" 
+
+msgid "Group could not be found." 
+msgstr "" 
+
+msgid "Group already exists." 
+msgstr "" 
+
+msgid "Group name is required" 
+msgstr "" 
+
+msgid "Group permissions is required" 
+msgstr "" 
+
+msgid "Failed to update group." 
+msgstr "" 
+
+msgid "The group is updated." 
+msgstr "" 
+
+msgid "Group deleted." 
+msgstr "" 
+
+msgid "Failed to delete the group." 
+msgstr "" 
+
+msgid "Some users are still assigned to this group." 
+msgstr "" 
+
+msgid "New Group" 
+msgstr "" 
+
+msgid "Delete Group" 
+msgstr "" 
+
+msgid "API Access" 
+msgstr "" 
+
+msgid "API Access Management" 
+msgstr "" 
+
+msgid "New Access" 
+msgstr "" 
+
+msgid "Request limit" 
+msgstr "" 
+
+msgid "Redirect URI" 
+msgstr "" 
+
+msgid "Required only for website / web application." 
+msgstr "" 
+
+msgid "Delete Access" 
+msgstr "" 
+
+msgid "/ hour" 
+msgstr "" 

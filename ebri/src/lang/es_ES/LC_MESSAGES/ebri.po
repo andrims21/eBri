@@ -1,0 +1,1174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adrian Saiz\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sulaeman <me@sulaeman.com>\n"
+"Language-Team: Sulaeman <me@sulaeman.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+msgid "Unable to create setting."
+msgstr "Imposible crear ajuste."
+
+msgid "Unable to create setting: %s."
+msgstr "Imposible crear ajuste: %s."
+
+msgid "Bad Request"
+msgstr "Petici&oacute;n err&oacute;nea"
+
+msgid "Failed while creating the settings"
+msgstr "Fallo creando los ajustes"
+
+msgid "Unable to update setting."
+msgstr "Error al actualizar ajustes."
+
+msgid "Unable to update setting: %s."
+msgstr "Imposible actualizar ajuste: %s."
+
+msgid "Unable to delete setting."
+msgstr "Imposible borrar ajuste."
+
+msgid "Unable to delete setting: %s."
+msgstr "Imposible borrar ajuste: %s."
+
+msgid "No key found"
+msgstr "Clave no encontrada"
+
+msgid "Setting deleted."
+msgstr "Ajuste eliminado."
+
+msgid "Setting succesfully deleted."
+msgstr "Ajuste eliminado correctamente."
+
+msgid "Failed while deleting from database"
+msgstr "Fallo borrando de base de datos"
+
+msgid "Permission denied."
+msgstr "Permiso denegado"
+
+msgid "Unable to identify current logged in user."
+msgstr "Imposible identificar al usuario actual."
+
+msgid "Unable to stream file."
+msgstr "Imposible abrir archivo."
+
+msgid "File is not available."
+msgstr "Archivo no disponible."
+
+msgid "Unable to download file."
+msgstr "Imposible descargar archivo."
+
+msgid "Unable to move file."
+msgstr "Imposible mover archivo."
+
+msgid "Destination path is not defined."
+msgstr "Ruta de destino no especificada."
+
+msgid "The file is already there."
+msgstr "Fichero ya existente."
+
+msgid "Unable to move \"%s\": %s."
+msgstr "Imposible mover \"%s\":%s."
+
+msgid "\"%s\" is not available"
+msgstr "\"%s\" no est&aacute; disponible."
+
+msgid "Moving to shared folder temporarily unavailable."
+msgstr "Mover a carpeta compartida temporalmente no disponible."
+
+msgid "Moving shared file temporarily unavailable."
+msgstr "Mover carpeta compartida temporalmente no disponible."
+
+msgid "Failed to move the file, please try again or contact us."
+msgstr "Fallo al mover el archivo, intentelo de nuevo."
+
+msgid "Unable to delete file."
+msgstr "Imposible borrar archivo."
+
+msgid "Please specify the target path with file name."
+msgstr ""
+"Por favor especifique la ruta de destino con el nombre de archivo incluido."
+
+msgid "Unable to delete \"%s\": %s."
+msgstr "Imposible borrar: \"%s\":%s."
+
+msgid "Folder \"%s\" is not exist"
+msgstr "Carpeta \"%s\" no existe"
+
+msgid "Specified path does not exist"
+msgstr "La ruta especificada no existe"
+
+msgid "File deleted."
+msgstr "Archivo borrado."
+
+msgid "\"%s\" successfully deleted."
+msgstr "\"%s\" borrado correctamente."
+
+msgid "Unable to delete \"%s\"."
+msgstr "Imposible borrar \"%s\"."
+
+msgid "Unable to update file."
+msgstr "Imposible actualizar archivo."
+
+msgid "Unable to update \"%s\": %s."
+msgstr "Imposible actualizar \"%s\":%s."
+
+msgid "Unable to update \"%s\"."
+msgstr "Imposible actualizar \"%s\"."
+
+msgid "Unable to process uploaded file."
+msgstr "Imposible procesar archivo actualizado."
+
+msgid "Could not read file size from Content-Length."
+msgstr "No es posible leer el tamaño de archivo."
+
+msgid "Could not read file mime type from Content-Type."
+msgstr "No es posible leer el tipo de archivo."
+
+msgid "Could not read file content."
+msgstr "No es posible leer el contenido del fichero."
+
+msgid "Unable to process \"%s\": %s."
+msgstr "Imposible procesar \"%s\":%s"
+
+msgid "Folder \"%s\" is not available"
+msgstr "Carpeta \"%s\" no disponible"
+
+msgid "File type is not allowed"
+msgstr "Tipo de archivo no permitido"
+
+msgid "File size is exceeded the limit"
+msgstr "L&iacute;mite de tama&ntilde;o de archivo superado."
+
+msgid "Could not found previous chunked file"
+msgstr "No pudo encontrarse el anterior archivo particionado."
+
+msgid ""
+"Failed to get the uploaded file content, needed to be merged to existing file"
+msgstr ""
+"Fallo al obtener el contenido del archivo subido, es necesario unirlo al "
+"archivo existente."
+
+msgid "Failed to merge to previous chunked file"
+msgstr "Fallo al unir el anterior archivo unido."
+
+msgid "There was a problem saving file info to database"
+msgstr "Hay un problema guardando un archivo a la base de datos"
+
+msgid "Please check folder permission"
+msgstr "Por favor comprueba permisos de carpeta"
+
+msgid "Permission denied to write to \"%s\" folder"
+msgstr "Acceso denegado para escribir en carpeta \"%s\""
+
+msgid "Unable to get shared folder option."
+msgstr "Imposible obtener opci&oacute; de carpeta compartida"
+
+msgid "Folder is not available."
+msgstr "Carpeta no disponible."
+
+msgid "Folder maybe already abandoned."
+msgstr "Carpeta ya abandonada."
+
+msgid "Folder is inside the main shared folder."
+msgstr "Carpeta dentro de la carpeta compartida principal."
+
+msgid "Unable to download folder."
+msgstr "Imposible descargar carpeta."
+
+msgid "Unable to create archive, make sure the directory is not empty."
+msgstr ""
+"Imposible crear archivo, asegurese de que la carpeta no est&aacute; "
+"vac&iacute;."
+
+msgid "Unable to find the archive file."
+msgstr "Imposible encontrar el archivo."
+
+msgid "Unable to move folder."
+msgstr "Imposible mover carpeta."
+
+msgid "The folder is already there."
+msgstr "Carpeta ya encontrada en destino."
+
+msgid "Could not move to the same folder"
+msgstr "Imposible mover la misma carpeta."
+
+msgid "Could not move to the child folder"
+msgstr "Imposible mover a subcarpeta interna."
+
+msgid "Moving shared folder temporarily unavailable."
+msgstr "Mover a carpeta compartida temporalmente no disponible."
+
+msgid "Failed to move the folder, please try again or contact us."
+msgstr ""
+"Fallo al mover la carpeta, por favor intentalo de nuevo o contacte con "
+"nosotros."
+
+msgid "Unable to leave shared folder."
+msgstr "Imposible abandonar carpeta compartida."
+
+msgid "Folder leaved."
+msgstr "Carpeta abandonada."
+
+msgid "Folder \"%s\" successfully leaved."
+msgstr "Carpeta \"%s\" abandonada correctamente."
+
+msgid "Unable to leave."
+msgstr "Imposible abandonar."
+
+msgid "Unable to leave \"%s\"."
+msgstr "Imposible abandonar \"%s\"."
+
+msgid "Unable to unshare folder."
+msgstr "Imposible descompartir carpeta."
+
+msgid "Folder unshared."
+msgstr "Carpeta descompartida."
+
+msgid "Folder \"%s\" successfully unshared."
+msgstr "Carpeta \"%s\" descompartida correctamente."
+
+msgid "Unable to unshare."
+msgstr "Imposible descompartir."
+
+msgid "Unable to unshare \"%s\"."
+msgstr "Imposible descompartir \"%s\"."
+
+msgid "Unable to share folder."
+msgstr "Imposible compartir carpeta."
+
+msgid "Unable to share: %s."
+msgstr "Imposible compartir: %s."
+
+msgid "Invalid members data"
+msgstr "Dato de miembros inv&aacute;lido"
+
+msgid "Empty members"
+msgstr "Miembros vacios."
+
+msgid "Unable to share \"%s\": %s."
+msgstr "Imposible compartir \"%s\":%s."
+
+msgid "Shared folder owner is not found"
+msgstr "Propietario de carpeta compartida no encontrado."
+
+msgid "\"%s\" is invalid email address"
+msgstr "\"%s\" es una direcci&oacute;n no v&aacute;lida."
+
+msgid "User with \"%s\" email address is not found"
+msgstr "Usuario con email \"%s\" no encontrado."
+
+msgid "Folder shared."
+msgstr "Carpeta compartida correctamente."
+
+msgid "Folder \"%s\" successfully shared."
+msgstr "Carpeta \"%s\" compartida correctamente."
+
+msgid "Unable to update folder."
+msgstr "Imposible actualizar carpeta."
+
+msgid "Unable to delete folder."
+msgstr "Imposible borrar carpeta."
+
+msgid "Folder deleted."
+msgstr "Carpeta borrada."
+
+msgid "Unable to create folder."
+msgstr "Imposible crear carpeta."
+
+msgid "Unable to create \"%s\": %s."
+msgstr "Imposible crear \"%s\":%s."
+
+msgid "Folder is already exist"
+msgstr "Carpeta con nombre ya existente."
+
+msgid "There was a problem saving folder info to database"
+msgstr "Error al guardar carpeta a base de datos"
+
+msgid "Unable to delete archive."
+msgstr "Imposible borrar archivo."
+
+msgid "Unable to delete archive: %s."
+msgstr "Imposible borrar archivo: %s."
+
+msgid "No archive defined"
+msgstr "Archivo no definido"
+
+msgid "Archive deleted."
+msgstr "Archivo borrado."
+
+msgid "\"%s\" archive successfully deleted."
+msgstr "\"%s\" archivo borrado correctamente."
+
+msgid "Unable to create link."
+msgstr "Imposible crear enlace."
+
+msgid "Unable to create link: %s."
+msgstr "Imposible crear enlace: %s."
+
+msgid "No file defined"
+msgstr "Archivo no definido"
+
+msgid "No file found"
+msgstr "Archivo no encontrado"
+
+msgid "Failed while creating the link"
+msgstr "Fallo al crear el enlace"
+
+msgid "Unable to view link."
+msgstr "Imposible ver enlace."
+
+msgid "Unable to view link: %s."
+msgstr "Imposible ver enlace: %s."
+
+msgid "No link defined"
+msgstr "Enlace no definido"
+
+msgid "No link found"
+msgstr "Enlace no encontrado"
+
+msgid "Link is expired"
+msgstr "Enlace expirado"
+
+msgid "Download limit is reached"
+msgstr "L&iacute;mite de descarga alcanzado."
+
+msgid "Unable to download link."
+msgstr "Imposible descargar enlace."
+
+msgid "Unable to download link: %s."
+msgstr "Imposible descargar enlace: %s."
+
+msgid "No owner found"
+msgstr "Propietario no encontrado"
+
+msgid "Password does not match"
+msgstr "Las contrase&ntilde;as no coinciden"
+
+msgid "Unable to send link."
+msgstr "Imposible enviar enlace."
+
+msgid "Unable to send link: %s."
+msgstr "Imposible enviar enlace: %s."
+
+msgid "No recipient defined"
+msgstr "Destinatario no definido"
+
+msgid "URL link is not defined"
+msgstr "URL de enlace no definido"
+
+msgid "Unable to update link."
+msgstr "Imposible actualizar enlace."
+
+msgid "Unable to update link: %s."
+msgstr "Imposible actualizar enlace: %s."
+
+msgid "Unable to delete link."
+msgstr "Imposible borrar enlace."
+
+msgid "Unable to delete link: %s."
+msgstr "Imposible borrar enlace: %s."
+
+msgid "Link deleted."
+msgstr "Enlace borrado."
+
+msgid "\"%s\" link successfully deleted."
+msgstr "\"%s\" enlace borrado correctamente."
+
+msgid "Method Not Allowed."
+msgstr "M&eacute;todo no permitido."
+
+msgid "Could not found requested user data."
+msgstr "No se ha encontrado datos para el usuario solicitado."
+
+msgid "Email Address is required"
+msgstr "Direcci&oacute;n email requerida"
+
+msgid "Email Address format is invalid"
+msgstr "Formato de direcci&oacute;n email inv&aacute;lido"
+
+msgid "Email Address is already used by someone else"
+msgstr "Email ya utilizado por otro usuario"
+
+msgid "Password is required"
+msgstr "Contrase&ntilde;a requerida"
+
+msgid "Permission is required"
+msgstr "Permisos requeridos"
+
+msgid "Defined group is not available"
+msgstr "Grupo definido no disponible"
+
+msgid "Activation status is required"
+msgstr "Estado de activaci&oacute;n requerido"
+
+msgid "Username is required"
+msgstr "Nombre de usuario requerido"
+
+msgid "Username is already used by someone else"
+msgstr "Nombre de usuario ya utilizado por otro usuario"
+
+msgid "Provided information is not valid."
+msgstr "Informaci&oacute;n proporcionada no es v&aacute;lida."
+
+msgid "The account is updated."
+msgstr "Cuenta actualizada."
+
+msgid "Current user not found."
+msgstr "Usuario actual no encontrado."
+
+msgid "User deleted."
+msgstr "Usuario borrado."
+
+msgid "Failed to delete the user."
+msgstr "Error al borrar usuario."
+
+msgid "Login field is required."
+msgstr "Usuario requerido."
+
+msgid "Password field is required."
+msgstr "Contrase&ntilde;a requerida."
+
+msgid "Wrong password, try again."
+msgstr "Contrase&ntilde;a incorrecta."
+
+msgid "User was not found."
+msgstr "Usuario no encontrado."
+
+msgid "Your account is not yet activated."
+msgstr "Cuenta no activada."
+
+msgid "Your account is suspended."
+msgstr "Cuenta suspendida."
+
+msgid "Your account is banned."
+msgstr "Cuenta baneada."
+
+msgid ""
+"There was a problem while logging you in, please try again or contact "
+"customer support."
+msgstr "Problema al acceder a cuenta, intentelo de nuevo."
+
+msgid "Could not found any account with provided email address."
+msgstr "No se encontr&oacute; ninguna cuenta con esa direcci&oacute;n email."
+
+msgid "Password recovery request received."
+msgstr "Petici&oacute;n de recuperaci&oacute;n de contrase&ntilde;a."
+
+msgid "Email is required."
+msgstr "Direcci&oacute;n email requerida."
+
+msgid "New password is required."
+msgstr "Nueva contrase&ntilde;a requerida."
+
+msgid "Password confirmation is required."
+msgstr "Confirmaci&oacute;n de contrase&ntilde;a requerida."
+
+msgid "Password does not match."
+msgstr "Las contrase&ntilde;as no coinciden."
+
+msgid "Password successfully changed."
+msgstr "Contrase&ntilde;a cambiada correctamente."
+
+msgid "Failed to change your password."
+msgstr "Error al cambiar contrase&ntilde;a"
+
+msgid "Your account successfully activated."
+msgstr "Cuenta activada correctamente."
+
+msgid "Failed to activate your account."
+msgstr "Fallo al activar cuenta."
+
+msgid "Unable to delete metadata."
+msgstr "Imposible borrar metadatos."
+
+msgid "Unable to delete metadata: %s."
+msgstr "Imposible borrar metadato: %s."
+
+msgid "No key defined"
+msgstr "Clave no definida"
+
+msgid "Failed while deleting the data"
+msgstr "Fallo al borrar los datos"
+
+msgid "Unable to update metadata."
+msgstr "Imposible actualizar metadatos"
+
+msgid "Unable to update metadata: %s."
+msgstr "Imposible actualizar metadatos: %s."
+
+msgid "No input defined"
+msgstr "Entrada no definida"
+
+msgid "Bad request."
+msgstr "Error de petici&oacute;n."
+
+msgid "Items is not defined."
+msgstr "Elementos no definidos"
+
+msgid "Done."
+msgstr "Hecho."
+
+msgid "Deletion performed successfully."
+msgstr "Borrado realizado correctamente."
+
+msgid "Folder does not exist."
+msgstr "Carpeta no existente."
+
+msgid "File \"%s\" is not writeable."
+msgstr "Archivo \"%s\" no permite escritura."
+
+msgid "File \"%s\" is not found."
+msgstr "Archivo \"%s\" no encontrado"
+
+msgid "File \"%s\" is not readable."
+msgstr "Archivo \"%s\" no legible."
+
+msgid "Sign In"
+msgstr "Acceder"
+
+msgid "Sign Up"
+msgstr "Registrarse"
+
+msgid ""
+"so sorry... the page you are trying to access is currently unavailable..."
+msgstr "P&aacute;gina no disponible actualmente..."
+
+msgid "Go to Homepage"
+msgstr "Ir a Inicio"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "General"
+msgstr "General"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "Template Editor"
+msgstr "Editor de plantilla"
+
+msgid ""
+"There is a problem while contacting our server, please try again, or contact "
+"us."
+msgstr "Problema contactando con servidor, intentelo de nuevo."
+
+msgid "Toggle navigation"
+msgstr "Navegaci"
+
+msgid "Dashboard"
+msgstr "Archivos"
+
+msgid "Links"
+msgstr "Enlaces"
+
+msgid "Archives"
+msgstr "Historial"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Logout"
+msgstr "Desconectar"
+
+msgid "Please Sign In"
+msgstr "Por favor identifiquese"
+
+msgid "Email address"
+msgstr "Direcci&oacute;n email"
+
+msgid "forgot password?"
+msgstr "Olvido de contrase&ntilde;a"
+
+msgid "Sign up"
+msgstr "Registro"
+
+msgid "Sign in ..."
+msgstr "Acceder"
+
+msgid "Confirm Password"
+msgstr "Confirmar contrase&ntilde;a"
+
+msgid "Registering ..."
+msgstr "Registrando..."
+
+msgid "Account created"
+msgstr "Cuenta creada"
+
+msgid "A instruction to activate your account has been sent to your email."
+msgstr "Las instrucciones para activar la cuenta han sido enviadas a su email."
+
+msgid "Please enter your valid email address"
+msgstr "Por favor introduzca un email v&aacute;lido"
+
+msgid "Requesting ..."
+msgstr "Procesando..."
+
+msgid "Reset password"
+msgstr "Cambiar contrase&ntilde;a"
+
+msgid "Password reset sent"
+msgstr "Cambio de contrase&ntilde;a enviado"
+
+msgid "A instruction to reset password has been sent to your email."
+msgstr ""
+"Las instrucciones para cambiar su contrase&ntilde;a han sido enviadas a su "
+"email."
+
+msgid "Change your password"
+msgstr "Cambiar contrase&ntilde;a"
+
+msgid "New Password"
+msgstr "Nueva contrase&ntilde;a"
+
+msgid "Changing ..."
+msgstr "Cambiando..."
+
+msgid "Change Password"
+msgstr "Cambiar contrase&ntilde;a"
+
+msgid "Complete your information"
+msgstr "Completar informaci&oacute;n"
+
+msgid "First name"
+msgstr "Nombre"
+
+msgid "Last name"
+msgstr "Apellido"
+
+msgid "Activating ..."
+msgstr "Activando..."
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Your Profile"
+msgstr "Tu Perfil"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Saving ..."
+msgstr "Guardando..."
+
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "Only required if you want to change your password."
+msgstr "Solo requerido si quiere cambiar su contrase&ntilde;a"
+
+msgid "Back One Level"
+msgstr "Volver atr&aacute;s"
+
+msgid "Search folders & files..."
+msgstr "Buscar archivos y carpetas..."
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "New Folder"
+msgstr "Nueva carpeta"
+
+msgid "Choose an action..."
+msgstr "Realizar acci&oacute;n..."
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Shared folder options for \"%s\""
+msgstr "Opciones de carpeta compartida para \"%s\""
+
+msgid "Share \"%s\" with others"
+msgstr "Compartir \"%s\" con otros"
+
+msgid "Allow members to upload"
+msgstr "Permitir subidas a los usuarios"
+
+msgid "Allow members to invite others"
+msgstr "Permitir a los usuarios invitar a otros"
+
+msgid "Invite members to this folder"
+msgstr "Invitar usuarios a carpeta"
+
+msgid "Add a message"
+msgstr "A&ntilde;ada un mensaje:"
+
+msgid "Unshare folder"
+msgstr "Descompartir carpeta"
+
+msgid "Leaving ..."
+msgstr "Abandonando..."
+
+msgid "Leave folder"
+msgstr "Abandonar carpeta"
+
+msgid "Inviting ..."
+msgstr "Invitando..."
+
+msgid "Share folder"
+msgstr "Compartir carpeta"
+
+msgid "Updating ..."
+msgstr "Actualizando..."
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Unshare \"%s\""
+msgstr "Descompartir \"%s\""
+
+msgid "I want my collaborators to keep a copy of these files."
+msgstr "Quiero que mis colaboradores tengan copia de ficheros"
+
+msgid "Unsharing ..."
+msgstr "Descompartiendo..."
+
+msgid "Leave the shared folder \"%s\""
+msgstr "Abandonar la carpeta compartida \"%s\""
+
+msgid "I still want to keep my copy of these files."
+msgstr "Quiero mantener copia de estos archivos"
+
+msgid "Delete Items"
+msgstr "Borrar elementos"
+
+msgid "Are you sure want to delete selected items?"
+msgstr "¿Est&aacute;s seguro de borrar los elementos seleccionados?"
+
+msgid "Deleting ..."
+msgstr "Borrando..."
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "is owner"
+msgstr "es propietario"
+
+msgid "remove"
+msgstr "borrar"
+
+msgid "Create New Folder"
+msgstr "Crear Nueva Carpeta"
+
+msgid "Folder name"
+msgstr "Nombre de carpeta"
+
+msgid "Creating ..."
+msgstr "Creando..."
+
+msgid "Upload Files"
+msgstr "Subir Archivos"
+
+msgid "Click \"Choose Files\" to start selecting files you want to upload."
+msgstr "Pulse \"Elegir archivos\" para seleccionar los archivos para subir."
+
+msgid "Overwrite?"
+msgstr "¿Sobreescribir?"
+
+msgid "Max. upload size: %s"
+msgstr "Tama&ntilde;o m&aacute;ximo de subida: %s"
+
+msgid "Choose files"
+msgstr "Elegir archivos"
+
+msgid ""
+"You can create a link to any file. These links can then be sent to anyone "
+"for viewing."
+msgstr ""
+"Puede crear un enlace para ver cualquier archivo. Estos enlaces pueden ser "
+"enviados a cualquiera."
+
+msgid ""
+"Following is the list of archive created when downloading folder or multiple "
+"items. Please delete the old archive (more than 1 day old) to reduce your "
+"used disk space."
+msgstr ""
+"Esta es la lista de historial creado cuando se descarga una carpeta o "
+"m&uacute;ltiples elementos. Por favor borre el historial antigüo (de "
+"m&aacute;s de 1 d&iacute;a de antiguedad) para reducir el espacio en disco "
+"ocupado."
+
+msgid "Last modified"
+msgstr "Ultima modificaci&oacute;n"
+
+msgid "Invite to folder"
+msgstr "Invitar a carpeta"
+
+msgid "Rename"
+msgstr "Renombrar"
+
+msgid "Move"
+msgstr "Mover"
+
+msgid "Rename Folder"
+msgstr "Renombrar carpeta"
+
+msgid "New folder name"
+msgstr "Nombre de carpeta nuevo"
+
+msgid "Delete File"
+msgstr "Borrar archivo"
+
+msgid "Are you sure want to delete \"%s\" and its contents?"
+msgstr "¿Est&aacute;s seguro de querer borrar \"%s\" y su contenido?"
+
+msgid "Move \"%s\""
+msgstr "Mover \"%s\""
+
+msgid "Type folder path"
+msgstr "Teclee ruta de carpeta"
+
+msgid "Example to root folder"
+msgstr "Ejemplo a carpeta ra&iacute;z"
+
+msgid "Example to a folder"
+msgstr "Ejemplo a carpeta"
+
+msgid "Moving ..."
+msgstr "Moviendo..."
+
+msgid "Share link"
+msgstr "Compartir enlace"
+
+msgid "Rename File"
+msgstr "Renombrar archivo"
+
+msgid "New file name"
+msgstr "Nombre de archivo nuevo"
+
+msgid "Are you sure want to delete \"%s\"?"
+msgstr "¿Est&aacute;s seguro de querer borrar \"%s\"?"
+
+msgid "Share \"%s\""
+msgstr "Compartir \"%s\""
+
+msgid ""
+"All input are optional. You can just continue to click the \"Share\" button "
+"at the bottom."
+msgstr ""
+"Toda la informaci&oacute;n es opcional. Puedes pulsar \"Compartir\" "
+"directamente."
+
+msgid "Valid until"
+msgstr "V&aacute;lido hasta"
+
+msgid "Description"
+msgstr "Descripci&oacute;n"
+
+msgid "Sharing ..."
+msgstr "Compartiendo..."
+
+msgid "Type email addresses"
+msgstr "Teclee direcciones email"
+
+msgid "Sending ..."
+msgstr "Enviando..."
+
+msgid "downloaded"
+msgstr "descargado"
+
+msgid "Created at"
+msgstr "Creado a"
+
+msgid "Send by email"
+msgstr "Enviar por email"
+
+msgid ""
+"If previously defined, please re-enter, because it was encrypted and cannot "
+"be restored to above input."
+msgstr ""
+"Si ha sido definido anteriormente, por favor vuelva a introducir el dato."
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Send \"%s\" link"
+msgstr "Enviar enlace \"%s\""
+
+msgid "Delete Link"
+msgstr "Borrar enlace"
+
+msgid "Size"
+msgstr "Tama&ntilde;o"
+
+msgid "Delete Archive"
+msgstr "Borrar Historial"
+
+msgid ""
+"Nobody else will be able to see this shared folder in their account. You'll "
+"still keep a copy of this shared folder."
+msgstr ""
+"Nadie podr&aacute; ver esta carpeta compartida en su cuenta, pero "
+"seguir&aacute; existiendo esta carpeta en su cuenta."
+
+msgid "General Preferences"
+msgstr "Preferencias Generales"
+
+msgid "Product Title"
+msgstr "Titulo de P&aacute;gina"
+
+msgid "Locale Language"
+msgstr "Idioma local"
+
+msgid "Allow User Registration?"
+msgstr "¿Permitir registro de usuarios?"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "Content Info"
+msgstr "Info de contenido"
+
+msgid "Footer"
+msgstr "Pie de p&aacute;gina"
+
+msgid "Image Media"
+msgstr "Media Imagen"
+
+msgid "Image Driver"
+msgstr "Driver Imagen"
+
+msgid ""
+"Ask your server administrator regarding the driver availability based on "
+"above list."
+msgstr ""
+"Pregunta al administrador del servidor sobre la compatibilidad de drivers "
+"seg&uacute;n la lista anterior."
+
+msgid "Archiver"
+msgstr "Archivador"
+
+msgid "ZIP inflator binary path"
+msgstr "Ruta del binario inflator ZIP"
+
+msgid "Ask your server administrator regarding ZIP binary path location."
+msgstr ""
+"Pregunta al administrador del servidor sobre la localizaci&oacute;n de las "
+"rutas de binarios ZIP"
+
+msgid "ZIP deflator binary path"
+msgstr "Ruta del binario deflator ZIP"
+
+msgid "File Handling & Storage"
+msgstr "Manejo de ficheros y almacenamiento"
+
+msgid "Upload file chunk size (bytes)"
+msgstr "Tama&ntilde;o de trozeado de ficheros en subidas (bytes)"
+
+msgid ""
+"Max chunk file size when uploading, useful for uploading a large file. "
+"Should not exceed your php.ini max file upload and max post size setting, "
+"also consider your php.ini memory limit."
+msgstr ""
+"Tama&ntilde;o m&aacute;ximo de los trozos del fichero al subir. &Uacute;til "
+"cuando se sube un archivo grande. No debe exceder el tama&ntilde;o de "
+"fichero m&aacute;ximo permitido para subidas en el fichero de "
+"configuraci&oacute;n php"
+
+msgid "[POST] File upload param name"
+msgstr "[POST] Nombre del par&aacute;metro de subida de archivo"
+
+msgid "Storage location folder name"
+msgstr "Nombre de la carpeta de almacenamiento"
+
+msgid "Email Subject"
+msgstr "Asunto del email"
+
+msgid "User activation"
+msgstr "Activaci&oacute;n de usuario"
+
+msgid "File shared"
+msgstr "Archivo compartido"
+
+msgid "User Management"
+msgstr "Gesti&oacute;n de usuarios"
+
+msgid "New User"
+msgstr "Nuevo usuario"
+
+msgid "Access group"
+msgstr "Grupo de acceso"
+
+msgid "Max upload file size (bytes)"
+msgstr "Tama&ntilde;o m&aacute;ximo de archivo (bytes)"
+
+msgid "Allowed file types"
+msgstr "Tipos de archivos permitidos"
+
+msgid "file types reference"
+msgstr "referencia de tipos de archivo"
+
+msgid "Activate?"
+msgstr "¿Activar usuario?"
+
+msgid "File Types Reference"
+msgstr "Referencia de tipos de archivo"
+
+msgid "Group"
+msgstr "Grupo"
+
+msgid "Last login"
+msgstr "&Uacute;ltimo acceso"
+
+msgid "Not yet activated"
+msgstr "No activado todavia"
+
+msgid "Edit \"%s\""
+msgstr "Editar \"%s\""
+
+msgid "Delete User"
+msgstr "Borrar Usuario"
+
+msgid ""
+"Used by file uploader if using POST method. Currently used by the jQuery "
+"File Upload."
+msgstr ""
+"Usado por el usuario que sube el archivo con el m&eacute;todo POST. "
+"Actualmente usado por jQuery File Upload."
+
+msgid "Don't change it after you do migration / create folder / upload file."
+msgstr "No lo cambies despu&eacute;s de migrar/ crear carpeta/ subir archivo."
+
+msgid ""
+"Define allowed file types when uploading by this user. Please split accepted "
+"extensions with a ',', in example 'jpeg,png,gif,zip'. If you would like to "
+"accept all types of files, leave this field empty."
+msgstr ""
+"Define los tipos de archivo permitidos para las subidas de este usuario. Por "
+"favor separa las extensiones aceptadas con una coma \",\". Si quieres "
+"aceptar todo tipo de archivos, deja este campo en blanco."
+
+msgid "Unlock Link"
+msgstr "Desbloquear enlace"
+
+msgid "Unlock & Download"
+msgstr "Desbloquear y Descargar"
+
+msgid "Saving changes will reflect the live file."
+msgstr "Los cambios guardados se reflejar&aacute;n en el archivo."
+
+msgid "Modify properties"
+msgstr "Modificar propiedades"
+
+msgid "File Properties"
+msgstr "Propiedades de archivo"
+
+msgid "Key"
+msgstr "Clave"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "New Property"
+msgstr "Nueva Propiedad"
+
+msgid "example: tag or additional_note."
+msgstr "ejemplo: tag o additional_note."
+
+msgid "Remove"
+msgstr "Borrar"
+
+msgid "Removing ..."
+msgstr "Borrando..."
+
+msgid "Delete \"%s\" Property"
+msgstr "Borrar propiedad de \"%s\""
+
+msgid "of"
+msgstr "de"
+
+msgid "free"
+msgstr "libre"
+
+msgid "Default user quota (bytes)"
+msgstr "Espacio de almacenamiento por usuario por defecto (bytes)"
+
+msgid "Quota (bytes)"
+msgstr "Espacio de almacenamiento (bytes)"
+
+msgid ""
+"Member lookup at Folder Sharing from user contact only (registerd user)?"
+msgstr ""
+
+msgid ""
+"User still be able to add new contact from registered user by just adding "
+"email address to the member lookup."
+msgstr ""
+
+msgid "Groups"
+msgstr ""
+
+msgid "Group Management"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Group could not be found."
+msgstr ""
+
+msgid "Group already exists."
+msgstr ""
+
+msgid "Group name is required"
+msgstr ""
+
+msgid "Group permissions is required"
+msgstr ""
+
+msgid "Failed to update group."
+msgstr ""
+
+msgid "The group is updated."
+msgstr ""
+
+msgid "Group deleted."
+msgstr ""
+
+msgid "Failed to delete the group."
+msgstr ""
+
+msgid "Some users are still assigned to this group."
+msgstr ""
+
+msgid "New Group"
+msgstr ""
+
+msgid "Delete Group"
+msgstr ""
+
+msgid "API Access"
+msgstr "API Akses"
+
+msgid "API Access Management"
+msgstr "Kelola API Akses"
+
+msgid "New Access"
+msgstr "Akses Baru"
+
+msgid "Request limit"
+msgstr "Limit Request"
+
+msgid "Redirect URI"
+msgstr ""
+
+msgid "Required only for website / web application."
+msgstr "Hanya untuk website / aplikasi web"
+
+msgid "Delete Access"
+msgstr "Hapus Akses"
+
+msgid "/ hour"
+msgstr "/ jam"

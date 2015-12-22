@@ -1,0 +1,23 @@
+{
+    "name": "andriynto/ebri",
+    "description": "",
+    "authors": [
+        {
+            "name": "Andriyanto",
+            "email": "andriynto.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Andriynto\\Ebri\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

@@ -1,0 +1,1175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kotakin\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sulaeman <me@sulaeman.com>\n"
+"Language-Team: Kotakin <me@sulaeman.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: id_ID\n"
+
+msgid "Unable to create setting."
+msgstr "Tidak dapat membuat pengaturan."
+
+msgid "Unable to create setting: %s."
+msgstr "Tidak dapat membuat pengaturan: %s."
+
+msgid "Bad Request"
+msgstr "Salah Permintaan"
+
+msgid "Failed while creating the settings"
+msgstr "Gagal membuat pengaturan"
+
+msgid "Unable to update setting."
+msgstr "Tidak dapat memperbaharui pengaturan."
+
+msgid "Unable to update setting: %s."
+msgstr "Tidak dapat memperbaharui pengaturan: %s."
+
+msgid "Unable to delete setting."
+msgstr "Tidak dapat menghapus pengaturan."
+
+msgid "Unable to delete setting: %s."
+msgstr "Tidak dapat menghapus pengaturan: %s."
+
+msgid "No key found"
+msgstr "Kata kunci tidak ditemukan"
+
+msgid "Setting deleted."
+msgstr "Pengaturan terhapus."
+
+msgid "Setting succesfully deleted."
+msgstr "Pengaturan berhasil dihapus."
+
+msgid "Failed while deleting from database"
+msgstr "Gagal menghapus dari database"
+
+msgid "Permission denied."
+msgstr "Tidak mempunyai hak."
+
+msgid "Unable to identify current logged in user."
+msgstr "Tidak dapat mengidentifikasi user sekarang."
+
+msgid "Unable to stream file."
+msgstr "Tidak dapat melakukan streaming berkas."
+
+msgid "File is not available."
+msgstr "Berkas tidak tersedia."
+
+msgid "Unable to download file."
+msgstr "Berkas tidak dapat diunduh."
+
+msgid "Unable to move file."
+msgstr "Berkas tidak dapat dipindahkan"
+
+msgid "Destination path is not defined."
+msgstr "Lokasi berkas tidak terdefinisikan"
+
+msgid "The file is already there."
+msgstr "Berkas telah terdapat"
+
+msgid "Unable to move \"%s\": %s."
+msgstr "Tidak dapat dipindahkan \"%s\": %s."
+
+msgid "\"%s\" is not available"
+msgstr "\"%s\" tidak terdapat"
+
+msgid "Moving to shared folder temporarily unavailable."
+msgstr ""
+"Pemindahan ke folder berbagi-pakai untuk sementara tidak dapat dilakukan."
+
+msgid "Moving shared file temporarily unavailable."
+msgstr "Pemindahan berkas berbagi-pakai untuk sementara tidak dapat dilakukan."
+
+msgid "Failed to move the file, please try again or contact us."
+msgstr "Pemindahan berkas gagal, silakan dicoba lagi atau hubungi kami."
+
+msgid "Unable to delete file."
+msgstr "Berkas tidak dapat dihapus."
+
+msgid "Please specify the target path with file name."
+msgstr "Silakan tentukan tujuan lokasi dengan nama file."
+
+msgid "Unable to delete \"%s\": %s."
+msgstr "Tidak dapat dihapus \"%s\": %s."
+
+msgid "Folder \"%s\" is not exist"
+msgstr "Folder \"%s\" tidak ditemukan"
+
+msgid "Specified path does not exist"
+msgstr "Tujuan lokasi tidak ditemukan"
+
+msgid "File deleted."
+msgstr "Berkas telah terhapus."
+
+msgid "\"%s\" successfully deleted."
+msgstr "\"%s\" berhasil dihapus."
+
+msgid "Unable to delete \"%s\"."
+msgstr "Tidak dapat menghapus \"%s\"."
+
+msgid "Unable to update file."
+msgstr "Tidak dapat memperbarui berkas."
+
+msgid "Unable to update \"%s\": %s."
+msgstr "Tidak dapat memperbarui \"%s\": %s."
+
+msgid "Unable to update \"%s\"."
+msgstr "Tidak dapat memperbarui."
+
+msgid "Unable to process uploaded file."
+msgstr "Berkas tidak dapat di proses."
+
+msgid "Could not read file size from Content-Length."
+msgstr "Tidak dapat membaca ukuran berkas dari Content-Length."
+
+msgid "Could not read file mime type from Content-Type."
+msgstr "Tidak dapat membaca jenis berkas dari Content-Type."
+
+msgid "Could not read file content."
+msgstr "Konten berkas tidak terbaca."
+
+msgid "Unable to process \"%s\": %s."
+msgstr "Tidak dapat di proses \"%s\": %s."
+
+msgid "Folder \"%s\" is not available"
+msgstr "Folder \"%s\" tidak tersedia"
+
+msgid "File type is not allowed"
+msgstr "Jenis berkas tidak di ijinkan"
+
+msgid "File size is exceeded the limit"
+msgstr "Ukuran berkas telah melampaui batas"
+
+msgid "Could not found previous chunked file"
+msgstr "Tidak dapat menemukan bagian-bagian berkas sebelumnya"
+
+msgid ""
+"Failed to get the uploaded file content, needed to be merged to existing file"
+msgstr ""
+"Gagal mendapatkan konten berkas yang di unggah, diperlukan untuk "
+"penggabungan berkas"
+
+msgid "Failed to merge to previous chunked file"
+msgstr "Gagal menggabungkan berkas dengan bagian-bagian berkas sebelumnya"
+
+msgid "There was a problem saving file info to database"
+msgstr "Terdapat masalah dalam penyimpanan info berkas ke dalam database"
+
+msgid "Please check folder permission"
+msgstr "Silakan periksa hak akses folder"
+
+msgid "Permission denied to write to \"%s\" folder"
+msgstr "Hak akses ditolak untuk menulis ke dalam \"%s\" folder"
+
+msgid "Unable to get shared folder option."
+msgstr "Tidak bisa mendapatkan opsi folder berbagi-pakai."
+
+msgid "Folder is not available."
+msgstr "Folder tidak terdapat."
+
+msgid "Folder maybe already abandoned."
+msgstr "Kemungkinan folder sudah tidak terpakai."
+
+msgid "Folder is inside the main shared folder."
+msgstr "Folder berada di dalam folder utama berbagi-pakai."
+
+msgid "Unable to download folder."
+msgstr "Folder tidak dapat di unduh."
+
+msgid "Unable to create archive, make sure the directory is not empty."
+msgstr "Tidak dapat menbuat arsip, pastikan direktori tidak kosong."
+
+msgid "Unable to find the archive file."
+msgstr "Tidak dapat menemukan berkas arsip."
+
+msgid "Unable to move folder."
+msgstr "Folder tidak dapat dipindahkan."
+
+msgid "The folder is already there."
+msgstr "Folder telah terdapat."
+
+msgid "Could not move to the same folder"
+msgstr "Tidak dapat dipindahkan ke dalam folder yang sama"
+
+msgid "Could not move to the child folder"
+msgstr "Tidak dapat dipindahkan ke dalam sub-folder"
+
+msgid "Moving shared folder temporarily unavailable."
+msgstr "Pemindahan folder berbagi-pakai untuk sementara tidak dapat dilakukan."
+
+msgid "Failed to move the folder, please try again or contact us."
+msgstr "Gagal memindahkan folder, silakan mencoba lagi atau hubungi kami."
+
+msgid "Unable to leave shared folder."
+msgstr "Tidak dapat meninggalkan folder berbagi-pakai."
+
+msgid "Folder leaved."
+msgstr "Folder telah ditinggalkan."
+
+msgid "Folder \"%s\" successfully leaved."
+msgstr "Folder \"%s\" berhasil ditinggalkan."
+
+msgid "Unable to leave."
+msgstr "Tidak dapat meninggalkan."
+
+msgid "Unable to leave \"%s\"."
+msgstr "Tidak dapat meninggalkan \"%s\"."
+
+msgid "Unable to unshare folder."
+msgstr "Folder tidak dapat di non-berbagi-pakai kan."
+
+msgid "Folder unshared."
+msgstr "Folder di tidak-berbagi-pakai kan."
+
+msgid "Folder \"%s\" successfully unshared."
+msgstr "Folder \"%s\" berhasil di non-berbagi-pakai kan."
+
+msgid "Unable to unshare."
+msgstr "Tidak dapat membagi-pakai kan."
+
+msgid "Unable to unshare \"%s\"."
+msgstr "Tidak dapat membagi-pakai kan \"%s\"."
+
+msgid "Unable to share folder."
+msgstr "Tidak dapat membagi-pakai kan folder"
+
+msgid "Unable to share: %s."
+msgstr "Tidak dapat membagi-pakai: %s."
+
+msgid "Invalid members data"
+msgstr "Data anggota tidak valid"
+
+msgid "Empty members"
+msgstr "Anggota kosong"
+
+msgid "Unable to share \"%s\": %s."
+msgstr "Tidak dapat membagi-pakai \"%s\": %s."
+
+msgid "Shared folder owner is not found"
+msgstr "Pemilik folder berbagi-pakai tidak ditemukan"
+
+msgid "\"%s\" is invalid email address"
+msgstr "\"%s\" alamat email tidak valid"
+
+msgid "User with \"%s\" email address is not found"
+msgstr "User dengan alamat email \"%s\" tidak ditemukan"
+
+msgid "Folder shared."
+msgstr "Folder dibagi-pakai kan."
+
+msgid "Folder \"%s\" successfully shared."
+msgstr "Folder \"%s\" berhasil dibagi-pakai kan."
+
+msgid "Unable to update folder."
+msgstr "Tidak dapat memperbarui folder."
+
+msgid "Unable to delete folder."
+msgstr "Folder tidak dapat dihapus."
+
+msgid "Folder deleted."
+msgstr "Folder telah dihapus."
+
+msgid "Unable to create folder."
+msgstr "Tidak dapat membuat folder."
+
+msgid "Unable to create \"%s\": %s."
+msgstr "Tidak dapat membuat \"%s\": %s."
+
+msgid "Folder is already exist"
+msgstr "Folder telah terdapat"
+
+msgid "There was a problem saving folder info to database"
+msgstr "Terdapat masalah penyimpanan info folder ke dalam database"
+
+msgid "Unable to delete archive."
+msgstr "Arsip tidak dapat dihapus."
+
+msgid "Unable to delete archive: %s."
+msgstr "Tidak dapat menghapus arsip: %s."
+
+msgid "No archive defined"
+msgstr "Tidak ada arsip terdefinisikan"
+
+msgid "Archive deleted."
+msgstr "Arsip telah terhapus."
+
+msgid "\"%s\" archive successfully deleted."
+msgstr "Arsip \"%s\" berhasil dihapus."
+
+msgid "Unable to create link."
+msgstr "Tidak dapat membuat link."
+
+msgid "Unable to create link: %s."
+msgstr "Tidak dapat membuat link: %s."
+
+msgid "No file defined"
+msgstr "Tida ada berkas terdefinisikan."
+
+msgid "No file found"
+msgstr "Berkas tidak ditemukan."
+
+msgid "Failed while creating the link"
+msgstr "Gagal membuat link"
+
+msgid "Unable to view link."
+msgstr "Link tidak dapat dilihat."
+
+msgid "Unable to view link: %s."
+msgstr "Link tidak dapat dilihat: %s."
+
+msgid "No link defined"
+msgstr "Tidak ada link terdefinisikan"
+
+msgid "No link found"
+msgstr "Link tidak ditemukan"
+
+msgid "Link is expired"
+msgstr "Link telah kadaluwarsa"
+
+msgid "Download limit is reached"
+msgstr "Batas meng-unggah telah tercapai"
+
+msgid "Unable to download link."
+msgstr "Link tidak dapat di unduh."
+
+msgid "Unable to download link: %s."
+msgstr "Tidak dapat meng-unduh link: %s."
+
+msgid "No owner found"
+msgstr "Pemilik tidak ditemukan"
+
+msgid "Password does not match"
+msgstr "Kata kunci tidak cocok"
+
+msgid "Unable to send link."
+msgstr "Link tidak dapat dikirim."
+
+msgid "Unable to send link: %s."
+msgstr "Link tidak dapat dikirim: %s."
+
+msgid "No recipient defined"
+msgstr "Tidak ada penerima terdefinisikan."
+
+msgid "URL link is not defined"
+msgstr "Alamat link tidak terdefinisikan"
+
+msgid "Unable to update link."
+msgstr "Link tidak dapat diperbarui."
+
+msgid "Unable to update link: %s."
+msgstr "Link tidak dapat diperbarui: %s."
+
+msgid "Unable to delete link."
+msgstr "Link tidak dapat dihapus."
+
+msgid "Unable to delete link: %s."
+msgstr "Link tidak dapat dihapus: %s."
+
+msgid "Link deleted."
+msgstr "Link telah terhapus."
+
+msgid "\"%s\" link successfully deleted."
+msgstr "Link \"%s\" berhasil dihapus."
+
+msgid "Method Not Allowed."
+msgstr "Metode tidak diijinkan."
+
+msgid "Could not found requested user data."
+msgstr "Permintaan data user tidak dapat ditemukan."
+
+msgid "Email Address is required"
+msgstr "Alamat email diperlukan"
+
+msgid "Email Address format is invalid"
+msgstr "Format alamat email tidak valid"
+
+msgid "Email Address is already used by someone else"
+msgstr "Alamat email telah digunakan orang lain."
+
+msgid "Password is required"
+msgstr "Kata kunci diperlukan"
+
+msgid "Permission is required"
+msgstr "Hak akses diperlukan"
+
+msgid "Defined group is not available"
+msgstr "Grup yang dimaksud tidak tersedia"
+
+msgid "Activation status is required"
+msgstr "Aktivasi status diperlukan"
+
+msgid "Username is required"
+msgstr "Username diperlukan"
+
+msgid "Username is already used by someone else"
+msgstr "Username telah digunakan orang lain"
+
+msgid "Provided information is not valid."
+msgstr "Informasi yang tersedia tidak valid"
+
+msgid "The account is updated."
+msgstr "Akun telah diperbarui."
+
+msgid "Current user not found."
+msgstr "User sekarang tidak ditemukan."
+
+msgid "User deleted."
+msgstr "User telah dihapus."
+
+msgid "Failed to delete the user."
+msgstr "User gagal dihapus."
+
+msgid "Login field is required."
+msgstr "Bagian login diperlukan"
+
+msgid "Password field is required."
+msgstr "Bagian kata kunci diperlukan."
+
+msgid "Wrong password, try again."
+msgstr "Kata kunci salah, silakan coba lagi."
+
+msgid "User was not found."
+msgstr "User tidak ditemukan."
+
+msgid "Your account is not yet activated."
+msgstr "Akun anda belum teraktivasi."
+
+msgid "Your account is suspended."
+msgstr "Akun anda ditunda."
+
+msgid "Your account is banned."
+msgstr "Akun anda terlarang."
+
+msgid ""
+"There was a problem while logging you in, please try again or contact "
+"customer support."
+msgstr ""
+"Terjadi masalah ketika anda mencoba login, silakan mencoba lagi atau hubungi "
+"customer support."
+
+msgid "Could not found any account with provided email address."
+msgstr "Akun dengan alamat email yang dimaksud tidak ditemukan."
+
+msgid "Password recovery request received."
+msgstr "Permintaan password recovery telah diterima."
+
+msgid "Email is required."
+msgstr "Email diperlukan."
+
+msgid "New password is required."
+msgstr "Kata kunci baru diperlukan."
+
+msgid "Password confirmation is required."
+msgstr "Konfirmasi kata kunci diperlukan."
+
+msgid "Password does not match."
+msgstr "Kata kunci tidak cocok."
+
+msgid "Password successfully changed."
+msgstr "Kata kunci telah berhasil dirubah."
+
+msgid "Failed to change your password."
+msgstr "Kata kunci anda gagal dirubah."
+
+msgid "Your account successfully activated."
+msgstr "Akun anda telah berhasil diaktivasi."
+
+msgid "Failed to activate your account."
+msgstr "Akun anda gagal diaktivasi."
+
+msgid "Unable to delete metadata."
+msgstr "Tidak dapat menghapus metadata."
+
+msgid "Unable to delete metadata: %s."
+msgstr "Tidak dapat menghapus metadata: %s."
+
+msgid "No key defined"
+msgstr "Tidak ada kata kunci terdefinisikan"
+
+msgid "Failed while deleting the data"
+msgstr "Gagal menghapus data"
+
+msgid "Unable to update metadata."
+msgstr "Tidak dapat memperbarui metadata."
+
+msgid "Unable to update metadata: %s."
+msgstr "Tidak dapat memperbarui metadata: %s."
+
+msgid "No input defined"
+msgstr "Tidak ada input terdefinisikan"
+
+msgid "Bad request."
+msgstr "Permintaan cacat."
+
+msgid "Items is not defined."
+msgstr "Item tidak terdefinisikan."
+
+msgid "Done."
+msgstr "Berhasil."
+
+msgid "Deletion performed successfully."
+msgstr "Penghapusan berhasil dilakukan."
+
+msgid "Folder does not exist."
+msgstr "Folder tidak terdapat."
+
+msgid "File \"%s\" is not writeable."
+msgstr "Berkas \"%s\" tidak dapat disunting."
+
+msgid "File \"%s\" is not found."
+msgstr "Berkas \"%s\" tidak ditemukan."
+
+msgid "File \"%s\" is not readable."
+msgstr "Berkas \"%s\" tidak dapat dibaca."
+
+msgid "Sign In"
+msgstr "Masuk"
+
+msgid "Sign Up"
+msgstr "Mendaftar"
+
+msgid ""
+"so sorry... the page you are trying to access is currently unavailable..."
+msgstr "mohon maaf... halaman yang anda coba akses tidak tersedia..."
+
+msgid "Go to Homepage"
+msgstr "Kembali ke halaman depan"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "General"
+msgstr "Umum"
+
+msgid "Users"
+msgstr "Pengguna"
+
+msgid "Template Editor"
+msgstr "Template Editor"
+
+msgid ""
+"There is a problem while contacting our server, please try again, or contact "
+"us."
+msgstr ""
+"Terdapat masalah ketika menghubungi server, silakan mencoba lagi, atau "
+"hubungi kami."
+
+msgid "Toggle navigation"
+msgstr "Navigasi beralih"
+
+msgid "Dashboard"
+msgstr "Beranda"
+
+msgid "Links"
+msgstr "Tautan"
+
+msgid "Archives"
+msgstr "Arsip"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Logout"
+msgstr "Keluar"
+
+msgid "Please Sign In"
+msgstr "Silakan masuk"
+
+msgid "Email address"
+msgstr "Alamat email"
+
+msgid "forgot password?"
+msgstr "lupa kata kunci?"
+
+msgid "Sign up"
+msgstr "Daftar"
+
+msgid "Sign in ..."
+msgstr "Masuk"
+
+msgid "Confirm Password"
+msgstr "Konfirmasi kata kunci"
+
+msgid "Registering ..."
+msgstr "Mendaftarkan ..."
+
+msgid "Account created"
+msgstr "Akun berhasil dibuat"
+
+msgid "An instruction to activate your account has been sent to your email."
+msgstr "Instruksi untuk aktivasi akun telah terkirim ke email anda."
+
+msgid "Please enter your valid email address"
+msgstr "Silakan anda masukkan alamat email valid"
+
+msgid "Requesting ..."
+msgstr "Meminta ..."
+
+msgid "Reset password"
+msgstr "Atur ulang kata kunci"
+
+msgid "Password reset sent"
+msgstr "Pengaturan ulang kata kunci telah terkirim"
+
+msgid "An instruction to reset password has been sent to your email."
+msgstr "Instruksi pengaturan ulang kata kunci telah terkirim ke email anda."
+
+msgid "Change your password"
+msgstr "Rubah kata kunci anda"
+
+msgid "New Password"
+msgstr "Kata kunci baru"
+
+msgid "Changing ..."
+msgstr "Merubah ..."
+
+msgid "Change Password"
+msgstr "Rubah kata kunci"
+
+msgid "Complete your information"
+msgstr "Lengkapi informasi diri anda"
+
+msgid "First name"
+msgstr "Nama depan"
+
+msgid "Last name"
+msgstr "Nama akhir"
+
+msgid "Activating ..."
+msgstr "Aktivasi ..."
+
+msgid "Activate"
+msgstr "Teraktivasi"
+
+msgid "Your Profile"
+msgstr "Profil Anda"
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid "Saving ..."
+msgstr "Menyimpan ..."
+
+msgid "Save Changes"
+msgstr "Menyimpan perubahan"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Only required if you want to change your password."
+msgstr "Hanya diperlukan jika anda ingin merubah kata kunci."
+
+msgid "Back One Level"
+msgstr "Kembali Satu Level"
+
+msgid "Search folders & files..."
+msgstr "Mencari folder & berkas..."
+
+msgid "Submit"
+msgstr "Ajukan"
+
+msgid "Upload"
+msgstr "Unggah"
+
+msgid "New Folder"
+msgstr "Folder Baru"
+
+msgid "Choose an action..."
+msgstr "Pilih satu aksi..."
+
+msgid "Delete"
+msgstr "Hapus"
+
+msgid "Shared folder options for \"%s\""
+msgstr "Opsi folder berbagi-pakai untuk \"%s\""
+
+msgid "Share \"%s\" with others"
+msgstr "Berbagi-pakai \"%s\" dengan yang lain"
+
+msgid "Allow members to upload"
+msgstr "Ijinkan anggota untuk meng-unggah"
+
+msgid "Allow members to invite others"
+msgstr "Ijinkan anggota mengundang yang lain"
+
+msgid "Invite members to this folder"
+msgstr "Undang anggota ke folder ini"
+
+msgid "Add a message"
+msgstr "Tulis pesan"
+
+msgid "Unshare folder"
+msgstr "Nonaktifkan berbagi-pakai"
+
+msgid "Leaving ..."
+msgstr "Keluar ..."
+
+msgid "Leave folder"
+msgstr "Tinggalkan folder"
+
+msgid "Inviting ..."
+msgstr "Mengundang ..."
+
+msgid "Share folder"
+msgstr "Aktifkan berbagi-pakai"
+
+msgid "Updating ..."
+msgstr "Memperbarui ..."
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Unshare \"%s\""
+msgstr "Nonaktifkan berbagi-pakai \"%s\""
+
+msgid "I want my collaborators to keep a copy of these files."
+msgstr "Saya ingin kolaborator saya menyimpan salinan berkas-berkas ini."
+
+msgid "Unsharing ..."
+msgstr "Menonaktifkan berbagi-pakai ..."
+
+msgid "Leave the shared folder \"%s\""
+msgstr "Tinggalkan folder berbagi-pakai \"%s\""
+
+msgid "I still want to keep my copy of these files."
+msgstr "Saya tetap menginginkan salinan berkas-berkas ini."
+
+msgid "Delete Items"
+msgstr "Hapus item"
+
+msgid "Are you sure want to delete selected items?"
+msgstr "Anda yakin akan menghapus item-item terpilih?"
+
+msgid "Deleting ..."
+msgstr "Menghapus ..."
+
+msgid "Continue"
+msgstr "Lanjutkan"
+
+msgid "is owner"
+msgstr "pemilik"
+
+msgid "remove"
+msgstr "hapus"
+
+msgid "Create New Folder"
+msgstr "Buat Folder Baru"
+
+msgid "Folder name"
+msgstr "Nama folder"
+
+msgid "Creating ..."
+msgstr "Membuat ..."
+
+msgid "Upload Files"
+msgstr "Unggah Berkas"
+
+msgid "Click \"Choose Files\" to start selecting files you want to upload."
+msgstr "Klik \"Choose Files\" untuk memilih berkas-berkas yang akan diunggah."
+
+msgid "Overwrite?"
+msgstr "Ditimpa?"
+
+msgid "Max. upload size: %s"
+msgstr "Max. ukuran unggah: %s"
+
+msgid "Choose files"
+msgstr "Pilih berkas"
+
+msgid ""
+"You can create a link to any file. These links can then be sent to anyone "
+"for viewing."
+msgstr ""
+"Anda dapat membuat tautan ke berkas manapun. Selanjutnya anda dapat "
+"mengirimkannya kepada siapapun untuk dilihat."
+
+msgid ""
+"Following is the list of archive created when downloading folder or multiple "
+"items. Please delete the old archive (more than 1 day old) to reduce your "
+"used disk space."
+msgstr ""
+"Berikut adalah daftar dari arsip-arsip yang dibuat ketika meng-unduh folder "
+"atau item-item. Hapus arsip-arsip lama (lebih dari 1 hari) untuk mereduksi "
+"penggunaan ruang penyimpanan anda."
+
+msgid "Last modified"
+msgstr "Modifikasi terakhir"
+
+msgid "Invite to folder"
+msgstr "Undang ke folder"
+
+msgid "Rename"
+msgstr "Rubah nama"
+
+msgid "Move"
+msgstr "Pindahkan"
+
+msgid "Rename Folder"
+msgstr "Rubah nama folder"
+
+msgid "New folder name"
+msgstr "Nama folder baru"
+
+msgid "Delete File"
+msgstr "Hapus berkas"
+
+msgid "Are you sure want to delete \"%s\" and its contents?"
+msgstr "Anda yakin akan menghapus \"%s\" beserta isinya?"
+
+msgid "Move \"%s\""
+msgstr "Pindahkan \"%s\""
+
+msgid "Type folder path"
+msgstr "Tipe lokasi folder"
+
+msgid "Example to root folder"
+msgstr "Contoh ke folder root"
+
+msgid "Example to a folder"
+msgstr "Contoh ke suatu folder"
+
+msgid "Moving ..."
+msgstr "Memindahkan ..."
+
+msgid "Share link"
+msgstr "Berbagi-pakai link"
+
+msgid "Rename File"
+msgstr "Rubah Nama Berkas"
+
+msgid "New file name"
+msgstr "Nama berkas baru"
+
+msgid "Are you sure want to delete \"%s\"?"
+msgstr "Anda yakin akan menghapus \"%s\"?"
+
+msgid "Share \"%s\""
+msgstr "Berbagi-pakai \"%s\""
+
+msgid ""
+"All input are optional. You can just continue to click the \"Share\" button "
+"at the bottom."
+msgstr "Semua input adalah opsional. Klik tombol \"Share\" dibawah ini."
+
+msgid "Valid until"
+msgstr "Valid hingga"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Sharing ..."
+msgstr "Berbagi-pakai ..."
+
+msgid "Type email addresses"
+msgstr "Tipe-tipe alamat email"
+
+msgid "Sending ..."
+msgstr "Mengirim ..."
+
+msgid "downloaded"
+msgstr "di unduh"
+
+msgid "Created at"
+msgstr "Dibuat pada"
+
+msgid "Send by email"
+msgstr "Kirim melalui email"
+
+msgid ""
+"If previously defined, please re-enter, because it was encrypted and cannot "
+"be restored to above input."
+msgstr ""
+"Jika telah terdefinisikan sebelumnya, silakan masukkan ulang, karena itu "
+"telah ter-enkripsi dan tidak dapat dikembalikan ke input diatas."
+
+msgid "Update"
+msgstr "Diperbarui"
+
+msgid "Send \"%s\" link"
+msgstr "Mengirim tautan \"%s\""
+
+msgid "Delete Link"
+msgstr "Hapus tautan"
+
+msgid "Size"
+msgstr "Ukuran"
+
+msgid "Delete Archive"
+msgstr "Hapus Arsip"
+
+msgid ""
+"Nobody else will be able to see this shared folder in their account. You'll "
+"still keep a copy of this shared folder."
+msgstr ""
+"Tidak seorangpun dapat melihat folder berbagi-pakai ini dalam akun mereka. "
+"Anda akan tetap memiliki salinan folder berbagi-pakai ini."
+
+msgid "General Preferences"
+msgstr "Preferensi Umum"
+
+msgid "Product Title"
+msgstr "Judul Produk"
+
+msgid "Locale Language"
+msgstr "Bahasa Lokal"
+
+msgid "Allow User Registration?"
+msgstr "Ijinkan Registrasi Anggota?"
+
+msgid "Yes"
+msgstr "Ya"
+
+msgid "Content Info"
+msgstr "Info Konten"
+
+msgid "Footer"
+msgstr "Footer"
+
+msgid "Image Media"
+msgstr "Media Gambar"
+
+msgid "Image Driver"
+msgstr "Gambar \"Driver\""
+
+msgid ""
+"Ask your server administrator regarding the driver availability based on "
+"above list."
+msgstr ""
+"Tanyakan pada administrator server anda mengenai ketersediaan \"driver\" "
+"berdasarkan daftar diatas."
+
+msgid "Archiver"
+msgstr "Pembuat Arsip"
+
+msgid "ZIP inflator binary path"
+msgstr "Lokasi inflator biner ZIP"
+
+msgid "Ask your server administrator regarding ZIP binary path location."
+msgstr "Tanyakan pada administrator server anda mengenai lokasi biner ZIP."
+
+msgid "ZIP deflator binary path"
+msgstr "Lokasi deflator biner ZIP"
+
+msgid "File Handling & Storage"
+msgstr "Pengelolaan Berkas & Penyimpanan"
+
+msgid "Upload file chunk size (bytes)"
+msgstr "Unggah ukuran potongan berkas (bytes)"
+
+msgid ""
+"Max chunk file size when uploading, useful for uploading a large file. "
+"Should not exceed your php.ini max file upload and max post size setting, "
+"also consider your php.ini memory limit."
+msgstr ""
+"Ukuran maksimum potongan berkas ketika meng-unggah, berguna untuk meng-"
+"unggah berkas besar. Tidak boleh melebihi ukuran maksimum berkas yang di "
+"unggah yang diatur pada berkas php.ini, dan pertimbangkan batas memori php."
+"ini"
+
+msgid "[POST] File upload param name"
+msgstr "[POST] Nama parameter berkas yang di unggah"
+
+msgid "Storage location folder name"
+msgstr "Lokasi penyimpanan nama folder"
+
+msgid "Email Subject"
+msgstr "Subyek email"
+
+msgid "User activation"
+msgstr "Aktivasi user"
+
+msgid "File shared"
+msgstr "Berkas berbagi-pakai"
+
+msgid "User Management"
+msgstr "Pengelolaan User"
+
+msgid "New User"
+msgstr "User Baru"
+
+msgid "Access group"
+msgstr "Akses Grup"
+
+msgid "Max upload file size (bytes)"
+msgstr "Ukuran max. berkas di unggah (bytes)"
+
+msgid "Allowed file types"
+msgstr "Tipe berkas yang diijinkan"
+
+msgid "file types reference"
+msgstr "referensi tipe berkas"
+
+msgid "Activate?"
+msgstr "Aktivasikan?"
+
+msgid "File Types Reference"
+msgstr "Referensi Tipe Berkas"
+
+msgid "Group"
+msgstr "Grup"
+
+msgid "Last login"
+msgstr "Login Terakhir"
+
+msgid "Not yet activated"
+msgstr "Belum teraktivasi"
+
+msgid "Edit \"%s\""
+msgstr "Sunting \"%s\""
+
+msgid "Delete User"
+msgstr "Hapus User"
+
+msgid ""
+"Used by file uploader if using POST method. Currently used by the jQuery "
+"File Upload."
+msgstr ""
+"Digunakan oleh peng-unggah berkas jika menggunakan metode POST. Saat ini "
+"digunakan oleh jQuery File Upload."
+
+msgid "Don't change it after you do migration / create folder / upload file."
+msgstr ""
+"Jangan dirubah setelah anda melakukan migrasi / membuat folder / meng-unggah "
+"berkas."
+
+msgid ""
+"Define allowed file types when uploading by this user. Please split accepted "
+"extensions with a ',', in example 'jpeg,png,gif,zip'. If you would like to "
+"accept all types of files, leave this field empty."
+msgstr ""
+"Definisikan tipe berkas yang diijinkan ketika meng-unggah oleh user. "
+"Pisahkan ekstensi dengan ',', contoh 'jpeg,png,gif,zip'. Jika ingin "
+"mengijinkan semua tipe berkas, biarkan kosong."
+
+msgid "Unlock Link"
+msgstr "Buka Kunci Tautan"
+
+msgid "Unlock & Download"
+msgstr "Buka Kunci & Unduh"
+
+msgid "Saving changes will reflect the live file."
+msgstr ""
+"Setiap perubahan yang disimpan akan direfleksikan pada file yang sedang "
+"digunakan saat ini."
+
+msgid "Modify properties"
+msgstr "Modifikasi properti"
+
+msgid "File Properties"
+msgstr "Properti Berkas"
+
+msgid "Key"
+msgstr "Kata Kunci"
+
+msgid "Value"
+msgstr "Nilai"
+
+msgid "New Property"
+msgstr "Properti Baru"
+
+msgid "example: tag or additional_note."
+msgstr "contoh: tag atau additional_note."
+
+msgid "Remove"
+msgstr "Hapus"
+
+msgid "Removing ..."
+msgstr "Menghapus ..."
+
+msgid "Delete \"%s\" Property"
+msgstr "Hapus properti \"%s\""
+
+msgid "of"
+msgstr "dari"
+
+msgid "free"
+msgstr "gratis"
+
+msgid "Default user quota (bytes)"
+msgstr "Standar kuota user (bytes)"
+
+msgid "Quota (bytes)"
+msgstr "Kuota (bytes)"
+
+msgid ""
+"Member lookup at Folder Sharing from user contact only (registerd user)?"
+msgstr ""
+"Daftar member pada berbagi-pakai folder hanya dari user kontak (user "
+"terdaftar)?"
+
+msgid ""
+"User still be able to add new contact from registered user by just adding "
+"email address to the member lookup."
+msgstr ""
+"User masih bisa menambahkan user terdaftar ke kontak nya dengan menambahkan "
+"alamat email di daftar member."
+
+msgid "Groups"
+msgstr ""
+
+msgid "Group Management"
+msgstr "Managemen Group"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Group could not be found."
+msgstr "Group tidak dapat ditemukan."
+
+msgid "Group already exists."
+msgstr "Group sudah ada."
+
+msgid "Group name is required"
+msgstr "Nama group dibutuhkan"
+
+msgid "Group permissions is required"
+msgstr "Akses group dibutuhkan"
+
+msgid "Failed to update group."
+msgstr "Gagal memperbaharui group."
+
+msgid "The group is updated."
+msgstr "Group berhasil diperbaharui."
+
+msgid "Group deleted."
+msgstr "Group terhapus."
+
+msgid "Failed to delete the group."
+msgstr "Gagal menghapus group."
+
+msgid "Some users are still assigned to this group."
+msgstr "Beberapa akun masih terdapat didalam group ini."
+
+msgid "New Group"
+msgstr "Group Baru"
+
+msgid "Delete Group"
+msgstr "Hapus Group"
+
+msgid "API Access"
+msgstr "API Akses"
+
+msgid "API Access Management"
+msgstr "Kelola API Akses"
+
+msgid "New Access"
+msgstr "Akses Baru"
+
+msgid "Request limit"
+msgstr "Limit Request"
+
+msgid "Redirect URI"
+msgstr ""
+
+msgid "Required only for website / web application."
+msgstr "Hanya untuk website / aplikasi web"
+
+msgid "Delete Access"
+msgstr "Hapus Akses"
+
+msgid "/ hour"
+msgstr "/ jam"
